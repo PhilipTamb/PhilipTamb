@@ -46,6 +46,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :telescope: I’m Studing Computer Engineer
 
 
-- :mailbox:How to reach me: ![(https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
+- :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
+
 
 
