@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- :telescope: I’m Studing Computer Engineer <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="20" align="left"/>
+- :telescope: I’m Studing Computer Engineer <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" />
 
 
 - :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
