@@ -60,6 +60,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/PhilipTamb/PhilipTamb/)
 
-https://github-readme-streak-stats.herokuapp.com/?user=PhilipTamb
+---
+https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/PhilipTamb/PhilipTamb/
 
 
