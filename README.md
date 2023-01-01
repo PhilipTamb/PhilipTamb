@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="20"/>
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif&logoColor=red" alt="Git" width="20"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="20"/>
 </div>
 
 
@@ -46,10 +45,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I’m Studing Computer Engineer
 
-- :seedling: 
 
-- :zap: 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/philip-tamb%C3%A8/))
+- :mailbox:How to reach me: ![(https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
 
 
