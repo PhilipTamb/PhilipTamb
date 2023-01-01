@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+I'am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- 	:mortar_board: I’m Studing Computer Engineer <div>   <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" /> </div>
+- 	:mortar_board: I’am Studing Computer Engineer <div>   <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" /> </div>
 
 ---
 
