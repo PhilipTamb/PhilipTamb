@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!-- ### Hi there 👋
 **PhilipTamb/PhilipTamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
@@ -42,7 +47,10 @@ Here are some ideas to get you started:
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- :telescope: I’m Studing Computer Engineer <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" />
+- 	:mortar_board: I’m Studing Computer Engineer 
+<div>
+  <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" />
+</div>
 
 
 - :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
