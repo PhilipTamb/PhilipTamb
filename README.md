@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
 </div>
 
+---
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,12 +32,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div id="badges">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="20"/>
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="20"/>
-</div>
-
 
 ---
 
@@ -59,5 +55,11 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/PhilipTamb/PhilipTamb/)
+
+https://github-readme-streak-stats.herokuapp.com/?user=PhilipTamb
 
 
