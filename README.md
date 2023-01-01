@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
 </div>
 
----
+### ---
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
@@ -35,13 +35,14 @@ Here are some ideas to get you started:
 <div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
----
+
+### ---
 
 ### :man_technologist: About Me :
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- :telescope: I’m Studing Computer Engineer
+- :telescope: I’m Studing Computer Engineer <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" align="right"/>
 
 
 - :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-Email-blue)](philip.tambe@hotmail.it)
