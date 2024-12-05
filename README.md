@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 I'am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 Please, visit my website --> https://philiptamb.github.io
 
-- 	:mortar_board: I’am Studing Computer Engineer <div>   <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" /> </div>
+- 	:mortar_board: I’am Computer Engineer <div>   <img alt="UniCT logo" src="https://focusicilia.it/wp-content/uploads/2021/02/LogoPrimario-1.png" height="40" /> </div>
 
 ---
 
@@ -63,6 +63,7 @@ Please, visit my website --> https://philiptamb.github.io
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
