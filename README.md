@@ -55,15 +55,14 @@ Please, visit my website --> https://philiptamb.github.io
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="http://rust-lang.org/logos/rust-logo-blk.svg" title="Java" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="JavaScript" alt="C" width="40" height="40"/>&nbsp;
+  <img src="http://rust-lang.org/logos/rust-logo-blk.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/PhilipTamb/PhilipTamb/)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)]
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
