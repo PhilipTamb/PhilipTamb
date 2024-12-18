@@ -63,7 +63,7 @@ Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 
 <div>
   <a href="https://philiptamb.github.io">
-    <img src="icons/home.sv" title="home"  alt="" width="40" height="40"/>
+    <img src="icons/home.svg" title="Home" alt="Home icon" width="40" height="40"/>
   </a> 
 </div>
 
