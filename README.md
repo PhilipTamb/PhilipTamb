@@ -70,6 +70,7 @@ Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user==PhilipTamb)](https://git.io/streak-stats)
 
 [![](https://github-readme-stats.vercel.app/api?username=PhilipTamb&layout=compact&theme=vision-friendly-dark&include_all_commits=true)](https://git.io/streak-stats)
 
@@ -80,7 +81,6 @@ Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 [![](https://github-readme-activity-graph.vercel.app/graph?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
- 
 
 
 Keep building, keep exploring! 🚀
