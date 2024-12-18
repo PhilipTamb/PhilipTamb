@@ -16,14 +16,15 @@ I'm an Italian Software Engineer :pinched_fingers: driven by curiosity and a pas
 
 As a tech enthusiast, I’m naturally drawn to cutting-edge projects where I can push the boundaries of innovation.
 
-What I Do
-⚙️ Low-Level Enthusiast
+What I Do:
+
+* ⚙️ Low-Level Enthusiast
 I enjoy exploring low-level languages and tools. Understanding how things work under the hood fuels my passion for systems programming and performance optimization. Crafting efficient and effective solutions is always my priority.
 
-📐 Architectural Thinker
+* 📐 Architectural Thinker
 While I love working close to the metal, I also excel in high-level reasoning. Designing robust architectures and building scalable solutions allows me to merge technical depth with strategic thinking.
 
-⚒️ Pattern Explorer
+* ⚒️ Pattern Explorer
 Software design patterns are my go-to approach for solving complex problems. I believe that applying them thoughtfully creates sustainable, maintainable, and future-proof software.
 
 I'm always eager to collaborate on challenging projects, exchange ideas, and contribute to exciting open-source initiatives. Let’s build something remarkable together!
