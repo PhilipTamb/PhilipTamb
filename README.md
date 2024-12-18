@@ -1,19 +1,4 @@
 
-
-<!-- ### Hi there 👋
-**PhilipTamb/PhilipTamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="badges">
   <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,8 +23,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" />
 </div>
-
-### ---
 -->
 ### :man_technologist: About Me : 
 
@@ -83,7 +66,8 @@ Please, visit my website -->  <img src="icons/home.svg" href="https://philiptamb
 
 
 ### :fire: My Stats :
-[![GitHub Streak1](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats)
 
