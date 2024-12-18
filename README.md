@@ -61,14 +61,14 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 
 Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 
- <img src="icons/home.svg" title="linux" alt="" width="40" height="40" <a href="https://philiptamb.github.io"></a> />&nbsp;
+<a href="https://philiptamb.github.io">
+  <img src="icons/home.sv" title="home"  alt="" width="40" height="40"/>&nbsp;
+</a> 
 
 
 ### :fire: My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
