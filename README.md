@@ -55,9 +55,16 @@ Please, visit my website --> https://philiptamb.github.io
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="http://rust-lang.org/logos/rust-logo-blk.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="icons/rust.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="icons/cpp.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="icons/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="icons/java.svg" title="java" alt="" width="40" height="40"/>&nbsp;
+  <img src="icons/spring.svg" title="spring" alt="" width="40" height="40"/>&nbsp;
+  <img src="icons/git.svg" title="git" alt="" width="40" height="40"/>&nbsp;
+  <img src="icons/docker.svg" title="docker" alt="" width="40" height="40"/>&nbsp;
+  <img src="icons/bash.svg" title="bash" alt="" width="40" height="40"/>&nbsp;
+  <img src="icons/linux.svg" title="linux" alt="" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
