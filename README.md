@@ -1,23 +1,5 @@
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCu5lYKkP44h01DFpegYTa4w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/PhilipTamb1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=PhilipTamb&style=flat-square&color=blue" alt=""/>
-</div>
 
-<h1>
-  Hey There!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <!--
 <div id="header" align="center">
@@ -42,6 +24,28 @@ While I love working close to the metal, I also excel in high-level reasoning. D
 Software design patterns are my go-to approach for solving complex problems. I believe that applying them thoughtfully creates sustainable, maintainable, and future-proof software.
 
 I'm always eager to collaborate on challenging projects, exchange ideas, and contribute to exciting open-source initiatives. Let’s build something remarkable together!
+
+### Connect with me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCu5lYKkP44h01DFpegYTa4w">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/PhilipTamb1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=PhilipTamb&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  Hey There!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### :hammer_and_wrench: My Favorite Languages and Tools :
 
