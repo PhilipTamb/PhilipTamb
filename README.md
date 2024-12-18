@@ -63,14 +63,15 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 </div>
 
 
-Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
+Please, visit my [website](https://philiptamb.github.io)
 
+<!--
 <div>
   <a href="https://philiptamb.github.io">
     <img src="icons/home.svg" title="Home" alt="Home icon" width="40" height="40"/>
   </a> 
 </div>
-
+-->
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats)
