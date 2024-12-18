@@ -61,7 +61,7 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 
 Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 
- <img src="icons/home.svg" title="linux" alt="" width="40" height="40" <a <strong>xlink:href="https://philiptamb.github.io"</strong>></a> />&nbsp;
+ <img src="icons/home.svg" title="linux" alt="" width="40" height="40" <a href="https://philiptamb.github.io"></a> />&nbsp;
 
 
 ### :fire: My Stats :
