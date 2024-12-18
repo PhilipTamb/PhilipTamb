@@ -61,20 +61,19 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 
 Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 
-<svg height="30" width="100" xmlns:xlink=“icons/home.svg">
- <a xlink:href="https://philiptamb.github.io" target="__blank"><text x="0" y="15" fill="black">My Blog!</text></a>
-</svg>
 
 
+  <svg xmlns="icons/home.svg" xmlns:xlink="icons/home.svg" version="1.1">
+     <a <strong>xlink:href="https://philiptamb.github.io"</strong>>
+     </a>
+   </svg>
 
 
 
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)]
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
