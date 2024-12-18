@@ -33,11 +33,11 @@ I'm Philip, a passionate Software Engineer driven by curiosity and a love for de
 
 What I Do
 
-- 	:mortar_board:   Low-Level Enthusiast: I enjoy diving into the depths of low-level languages and tools. Understanding how things work under the hood fuels my passion for systems programming and performance optimization.
+- 	⚙️   Low-Level Enthusiast: I enjoy diving into the depths of low-level languages and tools. Understanding how things work under the hood fuels my passion for systems programming and performance optimization.
 
-- 	:mortar_board:   Architectural Thinker: While I love working close to the metal, I also thrive in high-level reasoning. Designing robust architectures and crafting scalable solutions is where I merge technical depth with strategic thinking.
+- 	📐   Architectural Thinker: While I love working close to the metal, I also thrive in high-level reasoning. Designing robust architectures and crafting scalable solutions is where I merge technical depth with strategic thinking.
 
-- 	:mortar_board:   Pattern Explorer: Software design patterns are my go-to for solving complex problems. I believe that well-applied patterns are the foundation of sustainable and maintainable software.
+- 	⚒️  Pattern Explorer: Software design patterns are my go-to for solving complex problems. I believe that well-applied patterns are the foundation of sustainable and maintainable software.
 
 Why Connect?
 
