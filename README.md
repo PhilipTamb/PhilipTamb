@@ -27,22 +27,24 @@ Here are some ideas to get you started:
 
 ### ---
 -->
-### :man_technologist: About Me :
+### :man_technologist: About Me : 
 
-I'm Philip, a passionate Software Engineer driven by curiosity and a love for deep technical exploration. My path into the world of computing has led me to become a  Rustoceans enthusiast  🦀
+Hi, I'm Philip!
+I'm an Italian Software Engineer :pinched_fingers: driven by curiosity and a passion for deep technical exploration. My journey into the world of computing has turned me into a proud Rustoceans enthusiast 🦀.
+
+As a tech enthusiast, I’m naturally drawn to cutting-edge projects where I can push the boundaries of innovation.
 
 What I Do
+⚙️ Low-Level Enthusiast
+I enjoy exploring low-level languages and tools. Understanding how things work under the hood fuels my passion for systems programming and performance optimization. Crafting efficient and effective solutions is always my priority.
 
-- 	⚙️   Low-Level Enthusiast: I enjoy diving into the depths of low-level languages and tools. Understanding how things work under the hood fuels my passion for systems programming and performance optimization.
+📐 Architectural Thinker
+While I love working close to the metal, I also excel in high-level reasoning. Designing robust architectures and building scalable solutions allows me to merge technical depth with strategic thinking.
 
-- 	📐   Architectural Thinker: While I love working close to the metal, I also thrive in high-level reasoning. Designing robust architectures and crafting scalable solutions is where I merge technical depth with strategic thinking.
+⚒️ Pattern Explorer
+Software design patterns are my go-to approach for solving complex problems. I believe that applying them thoughtfully creates sustainable, maintainable, and future-proof software.
 
-- 	⚒️  Pattern Explorer: Software design patterns are my go-to for solving complex problems. I believe that well-applied patterns are the foundation of sustainable and maintainable software.
-
-Why Connect?
-
-I'm always eager to collaborate on challenging projects, exchange ideas, and contribute to exciting open-source initiatives. Let's build something remarkable together!
-
+I'm always eager to collaborate on challenging projects, exchange ideas, and contribute to exciting open-source initiatives. Let’s build something remarkable together!
 
 ### :hammer_and_wrench: My Favorite Languages and Tools :
 
@@ -82,6 +84,9 @@ Please, visit my website --> https://philiptamb.github.io
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Keep building, keep exploring! 🚀
