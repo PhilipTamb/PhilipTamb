@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCu5lYKkP44h01DFpegYTa4w">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/PhilipTamb1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=PhilipTamb&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1>
   Hey There!!
@@ -62,29 +76,16 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 </div>
 
 
-Please, visit my website --> https://philiptamb.github.io
+Please, visit my website -->  <img src="icons/home.svg" href="https://philiptamb.github.io" title="home" alt="" width="40" height="40"/>&nbsp; 
 
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/philip-tamb%C3%A8/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCu5lYKkP44h01DFpegYTa4w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/PhilipTamb1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=PhilipTamb&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
+[![GitHub Streak1](https://streak-stats.demolab.com/?user=PhilipTamb)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
