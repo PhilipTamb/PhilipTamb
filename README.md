@@ -59,7 +59,11 @@ I'm always eager to collaborate on challenging projects, exchange ideas, and con
 </div>
 
 
-Please, visit my website -->  <img src="icons/home.svg" href="https://philiptamb.github.io" title="home" alt="" width="40" height="40"/>&nbsp; 
+Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
+
+<svg height="30" width="100" xmlns:xlink=“http://www.w3.org/1999/xlink">
+ <a xlink:href="https://philiptamb.github.io" target="__blank"><text x="0" y="15" fill="black">My Blog!</text></a>
+</svg>
 
 
 
@@ -68,7 +72,8 @@ Please, visit my website -->  <img src="icons/home.svg" href="https://philiptamb
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTamb&theme=dark&background=000000)
+
 
 
 
