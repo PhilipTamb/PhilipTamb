@@ -73,11 +73,11 @@ Please, visit my website :arrow_down: :arrow_down: :arrow_down: :arrow_down:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTamb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- [![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipTamb&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipTamb&layout=compact&theme=vision-friendly-dark))](https://git.io/streak-stats)
 
- [![](https://github-readme-activity-graph.vercel.app/graph?username=PhilipTamb&theme=tokyo-night)](https://git.io/streak-stats)
+ [![](https://github-readme-activity-graph.vercel.app/graph?username=PhilipTamb&layout=compact&theme=vision-friendly-dark))](https://git.io/streak-stats)
 
-[![](https://github-readme-stats.vercel.app/api?username=PhilipTamb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=PhilipTamb&layout=compact&theme=vision-friendly-dark))](https://git.io/streak-stats)
  
 
 
