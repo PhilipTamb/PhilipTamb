@@ -1,11 +1,8 @@
 <h1>
   Hey There!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  My name is Philip!
 </h1>
-
-Hi 👋 My name is Philip
-=======================
-
 Hi, I'm Philip! I'm an Italian Software Engineer 🤌 driven by curiosity and a passion for deep technical exploration. My journey into the world of computing has turned me into a proud Rustoceans enthusiast 🦀.
 
 As a tech enthusiast, I’m naturally drawn to cutting-edge projects where I can push the boundaries of innovation.
